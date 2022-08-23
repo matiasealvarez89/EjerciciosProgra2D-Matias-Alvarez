@@ -9,29 +9,43 @@ namespace Ejercicio1
             int numeroIngresado;
             int minimo = int.MaxValue;
             int maximo = int.MinValue;
+            float promedio = 0;
+            int divisor = 5;
+            int flag = 0;
             
 
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Ingrese un numero");
-                numeroIngresado = int.Parse(Console.ReadLine());
+                if (int.TryParse(Console.ReadLine(), out numeroIngresado))
+                {
+                    if (flag == 0)
+                    {
+                        minimo = numeroIngresado;
+                        maximo = numeroIngresado;
+                    }
+                    else if (numeroIngresado < minimo)
+                    {
+                        minimo = numeroIngresado;
+                    }
+                    else if (numeroIngresado > maximo)
+                    {
+                        maximo = numeroIngresado;
+                    }
 
-                if(i == 0)
+                    promedio = promedio + numeroIngresado;
+                }else
                 {
-                    minimo = numeroIngresado;
-                    maximo = numeroIngresado;                    
-                }
-
-                if(numeroIngresado < minimo)
-                {
-                    minimo = numeroIngresado;
-                }else if(numeroIngresado > maximo)
-                {
-                    maximo = numeroIngresado;
+                    divisor--;
                 }
             }
 
-            Console.WriteLine($"El minimo es: {minimo} y el maximo es {maximo}");
+            if(divisor != 0)
+            {
+                promedio = promedio / divisor;
+            }
+
+            Console.WriteLine($"El minimo es: {minimo}, el maximo es {maximo} y el promedio es {promedio}");
 
         }
     }

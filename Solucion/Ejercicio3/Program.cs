@@ -6,7 +6,12 @@ namespace Ejercicio3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroIngresado;
+
+            do
+            {
+                Console.WriteLine("Seleccione la opcion\n1)Ingresar Numero");
+            } while(true);
         }
     }
 }
