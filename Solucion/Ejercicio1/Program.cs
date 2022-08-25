@@ -23,6 +23,7 @@ namespace Ejercicio1
                     {
                         minimo = numeroIngresado;
                         maximo = numeroIngresado;
+                        flag = 1;
                     }
                     else if (numeroIngresado < minimo)
                     {

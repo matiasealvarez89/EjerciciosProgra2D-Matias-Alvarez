@@ -1,0 +1,16 @@
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.exe
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.deps.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.runtimeconfig.dev.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\bin\Debug\net5.0\Ejercicio5.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\refint\Ejercicio5.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\Ejercicio5.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Solucion\Ejercicio5\obj\Debug\net5.0\ref\Ejercicio5.dll
