@@ -10,7 +10,7 @@ namespace Ejercicio4
             int iterador = 1;
             int acumulador = 0;
 
-            while (contador < 10)
+            while (contador < 4)
             {
                 for(int i = 1; i <= iterador/2; i++)
                 {

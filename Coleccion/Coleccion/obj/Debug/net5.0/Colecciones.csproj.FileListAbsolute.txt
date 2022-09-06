@@ -1,0 +1,16 @@
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.exe
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.deps.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.runtimeconfig.dev.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\bin\Debug\net5.0\Colecciones.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\refint\Colecciones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\Colecciones.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Coleccion\Coleccion\obj\Debug\net5.0\ref\Colecciones.dll
