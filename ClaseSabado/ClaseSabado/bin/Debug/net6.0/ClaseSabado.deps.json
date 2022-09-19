@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClaseSabado/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "ClaseSabado.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaseSabado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

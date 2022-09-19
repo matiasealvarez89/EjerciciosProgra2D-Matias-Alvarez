@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Clases y Metodos Estaticos/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
         "runtime": {
           "Clases y Metodos Estaticos.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Clases y Metodos Estaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

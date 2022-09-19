@@ -14,3 +14,6 @@ C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y
 C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\obj\Debug\net5.0\Clases y Metodos Estaticos.pdb
 C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\obj\Debug\net5.0\Clases y Metodos Estaticos.genruntimeconfig.cache
 C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\obj\Debug\net5.0\ref\Clases y Metodos Estaticos.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\bin\Debug\net5.0\Entidades.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\bin\Debug\net5.0\Entidades.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Clases y Metodos Estaticos\Clases y Metodos Estaticos\obj\Debug\net5.0\Clases y Metodos Estaticos.csproj.CopyComplete

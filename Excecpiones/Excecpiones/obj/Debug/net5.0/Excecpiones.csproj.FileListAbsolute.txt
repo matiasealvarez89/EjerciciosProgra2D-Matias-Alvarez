@@ -1,0 +1,16 @@
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.exe
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.deps.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.runtimeconfig.dev.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\bin\Debug\net5.0\Excecpiones.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\refint\Excecpiones.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\Excecpiones.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\Excecpiones\Excecpiones\obj\Debug\net5.0\ref\Excecpiones.dll
