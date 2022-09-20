@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Persona
+    public class Persona
     {
+        string nombre;
+        DateTime fechaDeNacimiento;
+        int dni;
+
+        public Persona(string nombre, DateTime fechaDeNacimiento, int dni)
+        {
+            this.nombre = nombre;
+            this.fechaDeNacimiento = fechaDeNacimiento;
+            this.dni = dni;
+        }
+
+
     }
 }

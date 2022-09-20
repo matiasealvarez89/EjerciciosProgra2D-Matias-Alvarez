@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.exe
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.deps.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\refint\HerenciaYPolimorfismo.dll
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.pdb
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Progra II\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\ref\HerenciaYPolimorfismo.dll
